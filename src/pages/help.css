@@ -1,0 +1,48 @@
+.navbar-2{
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 50px;
+  padding-top: 10px;
+  padding-left: 40px;
+  font-weight: 600;
+  font-size: larger;
+}
+
+.form-inline my-2 my-lg-0{
+  margin-left: 10px;
+}
+.Container{
+  
+  height: min-content;
+  background-color: #90e0ef;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: 50px;
+ 
+   
+  padding-bottom: 20px;
+}
+.Container1{
+  font-size: 20px;
+}
+.questions{
+  
+  background-color: #caf0f8;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  padding-left:10px ;
+  padding-right:10px ;
+  margin-top: 20px;
+  
+  
+}
+
+.ques-ans{
+  padding-top: 10px;
+  height: min-content;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}

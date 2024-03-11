@@ -1,0 +1,58 @@
+.universe{
+  width: 100vw;
+}
+.homedown{
+  padding: 30px;
+  height: 130px;
+  /* width: 80vw; */
+  display: flex;
+  justify-content: center;
+}
+.homedown1{
+  width: 50vw;
+  margin: 10px;
+}
+h4{
+  text-decoration: underline;
+}
+.banner{
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.textoverimage{
+  position: relative;
+  top: 80px;
+  /* left: 480px; */
+  font-size: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  /* color: aliceblue; */
+  color: black;
+}
+.buttons{
+  position:relative;
+  top: 560px;
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+.homediv{
+  position: relative;
+  top: -125px;
+  left: -2px;
+  /* background-color: #caf0f8; */
+}
+.safety{
+  height: 55vh;
+  background: #0A84FF;
+}
+.safetyimage{
+  padding-left: 40px;
+  padding-top: 40px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  text-align: center;
+}
